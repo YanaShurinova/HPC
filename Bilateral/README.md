@@ -1,10 +1,10 @@
 # Bilateral
 
 ## Входное изображение
-image.bmp
+[image.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/image.bmp)
 
 ## Изображение после обработки на CPU
-CPU.bmp
+[CPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp
 
 ## Изображение после обработки на CPU
-GPU.bmp
+[GPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/GPU.bmp
