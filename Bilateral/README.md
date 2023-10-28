@@ -25,4 +25,5 @@ https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sh
 
 
 ### Графики
-![]
+![usc.png]
+![time.png]
