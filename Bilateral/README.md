@@ -1,7 +1,7 @@
 # Bilateral
 
 ## Входное изображение
-(https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/image.bmp)
+![image.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/image.bmp)
 
 ## Изображение после обработки на CPU
 (https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp
