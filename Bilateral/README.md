@@ -25,5 +25,5 @@ https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sh
 
 
 ### Графики
-![usc.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/usc.bmp)
-![time.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/time.bmp)
+![usc.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/usc.png)
+![time.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/time.png)
