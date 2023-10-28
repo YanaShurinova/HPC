@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sh
 ## Изображение после обработки на CPU
 ![CPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)
 
-## Изображение после обработки на CPU
+## Изображение после обработки на GPU
 ![GPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/GPU.bmp)
 
 
