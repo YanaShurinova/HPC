@@ -4,13 +4,13 @@
 https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sharing
 
 ## Входное изображение
-![image.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/image.bmp)
+![image.bmp]
 
 ## Изображение после обработки на CPU
-![CPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)
+![CPU.bmp]
 
 ## Изображение после обработки на GPU
-![GPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/GPU.bmp)
+![GPU.bmp]
 
 
 ### Таблица с данными об эксперименте
