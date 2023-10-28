@@ -4,12 +4,11 @@
 https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sharing
 
 ## Входное изображение
-
+![img.bmp](https://github.com/YanaShurinova/HPC/blob/main/Bilateral/img.bmp)
 
 ## Изображение после обработки на CPU и GPU
-
-
-
+![CPU.bmp](https://github.com/YanaShurinova/HPC/blob/main/Bilateral/CPU.bmp)
+![GPU.bmp](https://github.com/YanaShurinova/HPC/blob/main/Bilateral/GPU.bmp)
 
 ### Таблица с данными об эксперименте
 | Размер изображения  | Время выполнения на CPU  | Время выполнения на GPU| Ускорение |
