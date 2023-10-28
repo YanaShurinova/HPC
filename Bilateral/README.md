@@ -4,13 +4,13 @@
 https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sharing
 
 ## Входное изображение
-![image.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/image.bmp)
+![image.bmp]
 
 ## Изображение после обработки на CPU
-![CPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp
+![CPU.bmp]
 
 ## Изображение после обработки на CPU
-![GPU.bmp](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/CPU.bmp)https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/GPU.bmp
+![GPU.bmp]
 
 
 ### Таблица с данными об эксперименте
@@ -22,3 +22,7 @@ https://colab.research.google.com/drive/1ycuul87ZX3eOF-vZjnSK99Kv2N0w29Iw?usp=sh
 | 400х400             | 29,2429                  | 0,01449                | 2017,56   |
 | 800х800             | 118,747                  | 0,05038                | 2356,7    |
 | 1600х1600           | 465,1186                 | 0,17889                | 2600,005  |
+
+
+### Графики
+![]
