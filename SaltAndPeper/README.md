@@ -4,11 +4,11 @@
 https://colab.research.google.com/drive/1vSuQeiN-xynYKB5_4cLgnNJY3eJHMnze?usp=sharing
 
 ## Входное изображение
-![image.bmp](https://github.com/YanaShurinova/HPC/blob/main/Bilateral/image.bmp)
+![image.bmp](https://github.com/YanaShurinova/HPC/blob/main/SaltAndPeper/image.bmp)
 
 ## Изображение после обработки на CPU и GPU
-![CPU.bmp](https://github.com/YanaShurinova/HPC/blob/main/Bilateral/CPU.bmp)
-![GPU.bmp](https://github.com/YanaShurinova/HPC/blob/main/Bilateral/GPU.bmp)
+![CPU.bmp](https://github.com/YanaShurinova/HPC/blob/main/SaltAndPeper/CPU.bmp)
+![GPU.bmp](https://github.com/YanaShurinova/HPC/blob/main/SaltAndPeper/GPU.bmp)
 
 ## Описание реализации
 Одна нить обрабатывает один пиксель => Общее число нитей = общему числу пикселей, каждая из которых 
@@ -32,5 +32,5 @@ https://colab.research.google.com/drive/1vSuQeiN-xynYKB5_4cLgnNJY3eJHMnze?usp=sh
 
 
 ### Графики
-![usc.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/usc.png)
-![time.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/Bilateral/time.png)
+![usc.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/SaltAndPeper/usc.png)
+![time.png](https://raw.githubusercontent.com/YanaShurinova/HPC/main/SaltAndPeper/time.png)
